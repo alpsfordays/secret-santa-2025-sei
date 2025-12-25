@@ -12,5 +12,5 @@ The reset button is available [here](https://www.lcsc.com/product-detail/C963197
 Put the [carte-blanche](firmware/carte-blanche/) folder into the keyboards folder of your fak-config and compile.  The [.ihx](firmware/carte-blanche.ihx) is also included if you would like to test your PCB; the base layout is alphabetical from left to right, top down.
 
 ## Credits and Licensing
-Credit to [AnasMalas](vhttps://github.com/AnasMalas/pcb-edge-usb-c) for the min-spec USB-C connector. The silk was drawn by me with technical drawings created from STEP files made available by Kailh.
+Credit to [AnasMalas](https://github.com/AnasMalas/pcb-edge-usb-c) for the min-spec USB-C connector. The silk was drawn by me with technical drawings created from STEP files made available by Kailh.
 The USB-C connector is under a CC-1.0 licence, and the project proper is under the [CERN-OHL-S-2.0 licence](LICENSE).
